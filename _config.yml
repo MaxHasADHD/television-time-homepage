@@ -35,19 +35,19 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Trakt.tv Sync
-    description                           : Sign in to your Trakt.tv account to see your history, watchlist, collection, and custom lists
+    description                           : Sign in to your Trakt.tv account to see your history and watchlist
     fontawesome_icon_name                 : sync-alt
     
   - title                                 : Details at a glance
-    description                           : Overview, release date, Rotten Tomatoes & IMDb scores, cast, and more
+    description                           : Episode overviews, release dates, cast, and more
     fontawesome_icon_name                 : info-circle
   
-  - title                                 : Track how many movies you see
-    description                           : View various statistics about your movie watching habits such as time spent watching movies, number of movies seen, and movie history.
+  - title                                 : Stats
+    description                           : View various statistics about your TV watching habits such as time spent watching TV, number of episodes seen, and episode history.
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : Social Links
-    description                           : View movie info from Trakt, TheMovieDB, and IMDb
+    description                           : View episode information on Trakt and IMDb
     fontawesome_icon_name                 : link
     
   - title                                 : Multiple languages supported
