@@ -1,0 +1,15 @@
+{
+  "applinks" : {
+    "apps" : [
+
+    ],
+    "details" : [
+      {
+        "appID" : "U6J8328WE2.com.litteral.TVShows",
+        "paths" : [
+          "/shows/*"
+        ]
+      }
+    ]
+  }
+}
