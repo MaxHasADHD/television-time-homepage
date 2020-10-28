@@ -122,3 +122,11 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
