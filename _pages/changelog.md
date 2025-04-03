@@ -8,7 +8,16 @@ include_in_header: true
 
 <br>
 
-### `Upcoming`
+### `Latest`
+
+# **Version 2.5**
+
+#### What's New
+
+- Faster, more reliable sync. Syncing is now smoother than ever.
+- Manual series refresh. Pull down on a series’ episode screen to fetch the latest updates from Trakt.
+- Trakt account limit support. Trakt introduced new restrictions for free accounts, which caused archived shows to be un-archived. Now, the app will alert you if you exceed a limit instead.
+- Bug fixes and improvements.
 
 # **Version 2.4**
 
@@ -20,8 +29,6 @@ include_in_header: true
 - Fix and improved watched history (Stats > Last Watched)
 - Fix search for Archived series
 - Fix sidebar localization on iPad
-
-### `Latest`
 
 # **Version 2.3.2**
 
