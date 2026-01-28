@@ -1,0 +1,24 @@
+Television Time is the best way to track the shows you watch, with a beautiful interface and a ton of features.
+
+Features
+• Beautiful design: Easily navigate between series and episodes to find everything you need to know.
+• Sync your progress with Trakt.tv (Plus) or over iCloud
+• Widgets: View upcoming shows, or episodes you missed, on your Home Screen and Lock Screen.
+• Stats: View your overall series progress, time spent watching TV, and more.
+• Information about the cast and crew
+• Support for rich notifications, universal links, keyboard shortcuts and pointer, alternate app icons, and more.
+
+Contact
+Follow us on Twitter @TelevisionApp or send an email to support@televisiontime.app for questions, comments, and support.
+
+Television Time Plus
+Television Time is free for up to 5 shows. Subscribe or purchase Television Time Plus to:
+
+• Track unlimited shows
+• Sync your progress with Trakt.tv
+• Unlock additional app icons
+• Sync upcoming episodes with your Calendar
+• Receive notifications for upcoming shows
+
+Privacy Policy: https://github.com/MaxHasADHD/PrivacyPolicies/blob/master/TelevisionTime.md
+Terms of Service: https://github.com/MaxHasADHD/PrivacyPolicies/blob/master/TelevisionTimeTerms.md

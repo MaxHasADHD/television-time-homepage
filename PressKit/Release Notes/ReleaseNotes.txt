@@ -1,0 +1,6 @@
+What's New in Television Time 2.7
+- Support for iOS 26 and Liquid Glass
+- Add option to hide Trakt comments in Settings > Appearance > Comments
+- Add option to export full watched history in Sync > Export
+- Fix bug causing the app to ask for Trakt login every 24 hours.
+- More bug fixes and improvements

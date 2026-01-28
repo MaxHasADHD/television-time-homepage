@@ -10,10 +10,30 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 2.5**
+# **Version 2.7.1**
 
 #### What's New
 
+This week on Television Time:
+- Add option to hide Trakt comments in Settings > Appearance > Comments
+- Add option to export full watched history in Sync > Export
+
+# **Version 2.7**
+
+#### What's New
+- Support for iOS 26 and Liquid Glass
+- Fix bug causing the app to ask for Trakt login every 24 hours.
+- More bug fixes and improvements
+
+# **Version 2.6**
+
+#### What's New
+- Improve sync speed
+- Fix iCloud sync issue causing the app to get stuck at 81%
+
+# **Version 2.5**
+
+#### What's New
 - Faster, more reliable sync. Syncing is now smoother than ever.
 - Manual series refresh. Pull down on a series’ episode screen to fetch the latest updates from Trakt.
 - Trakt account limit support. Trakt introduced new restrictions for free accounts, which caused archived shows to be un-archived. Now, the app will alert you if you exceed a limit instead.
